@@ -11,3 +11,5 @@ user@ub ~/folder$ npm install discord.js --save
 ```
 
 the rest is up to you! creating the app in the discord dev and add it to your server......
+
+And you can use your token in the section `bit.login('token')`
